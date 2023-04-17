@@ -1,0 +1,23 @@
+{
+    "consumer_name": "John Doe",
+    "total_due_amount": 0.0,
+    "due_bills": [
+        {
+            "bill_date": "17-APR-23",
+            "status": "Normal",
+            "bill_amount": "-0.4600",
+            "payable_amount": 0.0,
+            "days": 0,
+            "due_bill_of": "ADVANCE"
+        },
+        {
+            "bill_date": null,
+            "status": "Normal",
+            "bill_amount": "0.0000",
+            "payable_amount": 0.0,
+            "days": 0,
+            "due_bill_of": "PAID UPTO 2079-12"
+        }
+    ],
+    "log_idx": "auto generated"
+}

@@ -1,0 +1,690 @@
+{
+    "office_code": {
+        "options": [
+            {
+                "label": "AANBU KHAIRENI DC",
+                "value": "243:aanbu-khaireni-dc"
+            },
+            {
+                "label": "ACHHAM DC",
+                "value": "391:achham-dc"
+            },
+            {
+                "label": "AMUWA DC",
+                "value": "273:amuwa-dc"
+            },
+            {
+                "label": "ANARMANI DC",
+                "value": "268:anarmani-dc"
+            },
+            {
+                "label": "ARGHAKHACHI DC",
+                "value": "248:arghakhachi-dc"
+            },
+            {
+                "label": "ARUGHAT DC",
+                "value": "384:arughat-dc"
+            },
+            {
+                "label": "ATTARIYA DC",
+                "value": "345:attariya-dc"
+            },
+            {
+                "label": "BADEGAUN SDC",
+                "value": "237:badegaun-sdc"
+            },
+            {
+                "label": "BAGLUNG DC",
+                "value": "299:baglung-dc"
+            },
+            {
+                "label": "BAITADI DC",
+                "value": "381:baitadi-dc"
+            },
+            {
+                "label": "BALAJU DC",
+                "value": "215:balaju-dc"
+            },
+            {
+                "label": "BANESHWOR DC",
+                "value": "219:baneshwor-dc"
+            },
+            {
+                "label": "BANSGADHI DC",
+                "value": "373:bansgadhi-dc"
+            },
+            {
+                "label": "BARAHATHAWA DC",
+                "value": "399:barahathawa-dc"
+            },
+            {
+                "label": "BARDAGHAT SDC",
+                "value": "267:bardaghat-sdc"
+            },
+            {
+                "label": "BARDIBAS DC",
+                "value": "378:bardibas-dc"
+            },
+            {
+                "label": "Barhabise DC",
+                "value": "277:barhabise-dc"
+            },
+            {
+                "label": "BELAURI DC",
+                "value": "348:belauri-dc"
+            },
+            {
+                "label": "BELBARI DC",
+                "value": "317:belbari-dc"
+            },
+            {
+                "label": "BELTAR DC",
+                "value": "339:beltar-dc"
+            },
+            {
+                "label": "BHADRAPUR DC",
+                "value": "265:bhadrapur-dc"
+            },
+            {
+                "label": "BHAIRAHAWA DC",
+                "value": "272:bhairahawa-dc"
+            },
+            {
+                "label": "BHAJANI DC",
+                "value": "370:bhajani-dc"
+            },
+            {
+                "label": "BHAKTAPUR DC",
+                "value": "245:bhaktapur-dc"
+            },
+            {
+                "label": "BHARATPUR DC",
+                "value": "211:bharatpur-dc"
+            },
+            {
+                "label": "BHIMAN DC",
+                "value": "270:bhiman-dc"
+            },
+            {
+                "label": "BHOJPUR DC",
+                "value": "316:bhojpur-dc"
+            },
+            {
+                "label": "BIRATNAGAR DC",
+                "value": "285:biratnagar-dc"
+            },
+            {
+                "label": "BIRGUNJ DC",
+                "value": "286:birgunj-dc"
+            },
+            {
+                "label": "BODEBARSAIEN DC",
+                "value": "301:bodebarsaien-dc"
+            },
+            {
+                "label": "BUDHABARE SDC",
+                "value": "333:budhabare-sdc"
+            },
+            {
+                "label": "BUDHANILKANTHA DC",
+                "value": "223:budhanilkantha-dc"
+            },
+            {
+                "label": "BUTWAL DC",
+                "value": "229:butwal-dc"
+            },
+            {
+                "label": "Chabahil DC",
+                "value": "220:chabahil-dc"
+            },
+            {
+                "label": "CHAINPUR DC",
+                "value": "315:chainpur-dc"
+            },
+            {
+                "label": "CHANAULI DC",
+                "value": "294:chanauli-dc"
+            },
+            {
+                "label": "CHANDRANIGAPUR DC",
+                "value": "356:chandranigapur-dc"
+            },
+            {
+                "label": "CHAPAGAUN SDC",
+                "value": "217:chapagaun-sdc"
+            },
+            {
+                "label": "CHAUTARA DC",
+                "value": "326:chautara-dc"
+            },
+            {
+                "label": "DADELDHURA DC",
+                "value": "385:dadeldhura-dc"
+            },
+            {
+                "label": "DAILEKH DC",
+                "value": "350:dailekh-dc"
+            },
+            {
+                "label": "DAMAK DC",
+                "value": "280:damak-dc"
+            },
+            {
+                "label": "DAMAULI DC",
+                "value": "241:damauli-dc"
+            },
+            {
+                "label": "DARCHULA DC",
+                "value": "383:darchula-dc"
+            },
+            {
+                "label": "DHADING DC",
+                "value": "224:dhading-dc"
+            },
+            {
+                "label": "DHANGADI DC",
+                "value": "344:dhangadi-dc"
+            },
+            {
+                "label": "DHANKUTA DC",
+                "value": "284:dhankuta-dc"
+            },
+            {
+                "label": "DHANUSHADHAM DC",
+                "value": "302:dhanushadham-dc"
+            },
+            {
+                "label": "DHARAN DC",
+                "value": "212:dharan-dc"
+            },
+            {
+                "label": "DHARKE DC",
+                "value": "269:dharke-dc"
+            },
+            {
+                "label": "DHULABARI SDC",
+                "value": "320:dhulabari-sdc"
+            },
+            {
+                "label": "DHUNCHE DC",
+                "value": "375:dhunche-dc"
+            },
+            {
+                "label": "DIKTEL DC",
+                "value": "397:diktel-dc"
+            },
+            {
+                "label": "DOLAKHA DC",
+                "value": "274:dolakha-dc"
+            },
+            {
+                "label": "DOTI DC",
+                "value": "388:doti-dc"
+            },
+            {
+                "label": "DUHABI DC",
+                "value": "271:duhabi-dc"
+            },
+            {
+                "label": "DUMRE DC",
+                "value": "390:dumre-dc"
+            },
+            {
+                "label": "FICKEL DC",
+                "value": "308:fickel-dc"
+            },
+            {
+                "label": "GAIDAKOT SDC",
+                "value": "235:gaidakot-sdc"
+            },
+            {
+                "label": "GAIGHAT DC",
+                "value": "297:gaighat-dc"
+            },
+            {
+                "label": "GAJURI DC",
+                "value": "225:gajuri-dc"
+            },
+            {
+                "label": "GAURADAH DC",
+                "value": "287:gauradah-dc"
+            },
+            {
+                "label": "GAUR DC",
+                "value": "323:gaur-dc"
+            },
+            {
+                "label": "GAUSALA DC",
+                "value": "359:gausala-dc"
+            },
+            {
+                "label": "GHORAHI DC",
+                "value": "250:ghorahi-dc"
+            },
+            {
+                "label": "GORKHA DC",
+                "value": "238:gorkha-dc"
+            },
+            {
+                "label": "GULARIYA DC",
+                "value": "242:gulariya-dc"
+            },
+            {
+                "label": "GULMI DC",
+                "value": "290:gulmi-dc"
+            },
+            {
+                "label": "HANUMAN DC",
+                "value": "330:hanuman-dc"
+            },
+            {
+                "label": "HETAUDA DC",
+                "value": "231:hetauda-dc"
+            },
+            {
+                "label": "IILAM DC",
+                "value": "292:iilam-dc"
+            },
+            {
+                "label": "INARUWA DC",
+                "value": "281:inaruwa-dc"
+            },
+            {
+                "label": "ITAHARI DC",
+                "value": "264:itahari-dc"
+            },
+            {
+                "label": "JAHARE DC",
+                "value": "354:jahare-dc"
+            },
+            {
+                "label": "JAJARKOT DC",
+                "value": "392:jajarkot-dc"
+            },
+            {
+                "label": "JALESHOR DC",
+                "value": "331:jaleshor-dc"
+            },
+            {
+                "label": "JANAKPUR DC",
+                "value": "261:janakpur-dc"
+            },
+            {
+                "label": "JIRI DC",
+                "value": "275:jiri-dc"
+            },
+            {
+                "label": "JOGBUDA DC",
+                "value": "386:jogbuda-dc"
+            },
+            {
+                "label": "JORPATI DC",
+                "value": "221:jorpati-dc"
+            },
+            {
+                "label": "KALAIYA DC",
+                "value": "318:kalaiya-dc"
+            },
+            {
+                "label": "KALIKOT DC",
+                "value": "380:kalikot-dc"
+            },
+            {
+                "label": "KANCHANPUR DC",
+                "value": "351:kanchanpur-dc"
+            },
+            {
+                "label": "KATARI DC",
+                "value": "338:katari-dc"
+            },
+            {
+                "label": "KAVRE DC",
+                "value": "247:kavre-dc"
+            },
+            {
+                "label": "KAWASOTI DC",
+                "value": "234:kawasoti-dc"
+            },
+            {
+                "label": "Khadbari DC",
+                "value": "306:khadbari-dc"
+            },
+            {
+                "label": "khajura DC",
+                "value": "325:khajura-dc"
+            },
+            {
+                "label": "KHARIDHUNGA DC",
+                "value": "282:kharidhunga-dc"
+            },
+            {
+                "label": "KIRTIPUR DC",
+                "value": "246:kirtipur-dc"
+            },
+            {
+                "label": "KNAGAR DC",
+                "value": "309:knagar-dc"
+            },
+            {
+                "label": "KOHALPUR DC",
+                "value": "324:kohalpur-dc"
+            },
+            {
+                "label": "KULESHOR DC",
+                "value": "205:kuleshor-dc"
+            },
+            {
+                "label": "LAGANKHEL DC",
+                "value": "216:lagankhel-dc"
+            },
+            {
+                "label": "LAHAN DC",
+                "value": "293:lahan-dc"
+            },
+            {
+                "label": "LALBANDI DC",
+                "value": "379:lalbandi-dc"
+            },
+            {
+                "label": "LAMAHI DC",
+                "value": "251:lamahi-dc"
+            },
+            {
+                "label": "Lamjung DC",
+                "value": "332:lamjung-dc"
+            },
+            {
+                "label": "LAMKI DC",
+                "value": "343:lamki-dc"
+            },
+            {
+                "label": "Lekhnath DC",
+                "value": "228:lekhnath-dc"
+            },
+            {
+                "label": "LUBHU SDC",
+                "value": "218:lubhu-sdc"
+            },
+            {
+                "label": "LUMBINI DC",
+                "value": "307:lumbini-dc"
+            },
+            {
+                "label": "MAHARAJGUNJ DC",
+                "value": "222:maharajgunj-dc"
+            },
+            {
+                "label": "MAHENDRANAGAR DC",
+                "value": "347:mahendranagar-dc"
+            },
+            {
+                "label": "MAINAPOKHARI DC",
+                "value": "376:mainapokhari-dc"
+            },
+            {
+                "label": "Majuwa DC",
+                "value": "239:majuwa-dc"
+            },
+            {
+                "label": "MALANGWA DC",
+                "value": "305:malangwa-dc"
+            },
+            {
+                "label": "MANGALSEN DC",
+                "value": "396:mangalsen-dc"
+            },
+            {
+                "label": "MANTHALI DC",
+                "value": "296:manthali-dc"
+            },
+            {
+                "label": "MAULAPUR DC",
+                "value": "303:maulapur-dc"
+            },
+            {
+                "label": "MELAMCHI DC",
+                "value": "337:melamchi-dc"
+            },
+            {
+                "label": "Mirchiya DC",
+                "value": "334:mirchiya-dc"
+            },
+            {
+                "label": "MIRMI DC",
+                "value": "310:mirmi-dc"
+            },
+            {
+                "label": "MUDHE DC",
+                "value": "362:mudhe-dc"
+            },
+            {
+                "label": "MYAGDI DC",
+                "value": "319:myagdi-dc"
+            },
+            {
+                "label": "NAXAL DC",
+                "value": "214:naxal-dc"
+            },
+            {
+                "label": "NAYAMILL DC",
+                "value": "313:nayamill-dc"
+            },
+            {
+                "label": "NEA : TAPLEJUNG DC",
+                "value": "361:nea-taplejung-dc"
+            },
+            {
+                "label": "NEPALGUNJ DC",
+                "value": "256:nepalgunj-dc"
+            },
+            {
+                "label": "NIJGADH DC",
+                "value": "279:nijgadh-dc"
+            },
+            {
+                "label": "Nuwakot DC",
+                "value": "232:nuwakot-dc"
+            },
+            {
+                "label": "OKHALDHUNGA DC",
+                "value": "355:okhaldhunga-dc"
+            },
+            {
+                "label": "PALPA DC",
+                "value": "263:palpa-dc"
+            },
+            {
+                "label": "PALUNG DC",
+                "value": "262:palung-dc"
+            },
+            {
+                "label": "PANAUTI DC",
+                "value": "335:panauti-dc"
+            },
+            {
+                "label": "PANCHKHAL DC",
+                "value": "249:panchkhal-dc"
+            },
+            {
+                "label": "PANCHTHAR DC",
+                "value": "395:panchthar-dc"
+            },
+            {
+                "label": "PARASI DC",
+                "value": "321:parasi-dc"
+            },
+            {
+                "label": "PARBAT DC",
+                "value": "240:parbat-dc"
+            },
+            {
+                "label": "PASHUPATINAGAR DC",
+                "value": "314:pashupatinagar-dc"
+            },
+            {
+                "label": "PATAN DC",
+                "value": "382:patan-dc"
+            },
+            {
+                "label": "POKHARA DC",
+                "value": "226:pokhara-dc"
+            },
+            {
+                "label": "POKHARA GRAMIN SDC",
+                "value": "227:pokhara-gramin-sdc"
+            },
+            {
+                "label": "POKHARIYA DC",
+                "value": "360:pokhariya-dc"
+            },
+            {
+                "label": "PULCHOWK DC",
+                "value": "207:pulchowk-dc"
+            },
+            {
+                "label": "PYUTHAN DC",
+                "value": "357:pyuthan-dc"
+            },
+            {
+                "label": "RAJAPUR DC",
+                "value": "371:rajapur-dc"
+            },
+            {
+                "label": "RAJBIRAJ DC",
+                "value": "329:rajbiraj-dc"
+            },
+            {
+                "label": "RAMECHHAP DC",
+                "value": "336:ramechhap-dc"
+            },
+            {
+                "label": "RANGELI DC",
+                "value": "291:rangeli-dc"
+            },
+            {
+                "label": "RANI SUB DC",
+                "value": "288:rani-sub-dc"
+            },
+            {
+                "label": "RATNAPARK DC",
+                "value": "201:ratnapark-dc"
+            },
+            {
+                "label": "RIDI DC",
+                "value": "311:ridi-dc"
+            },
+            {
+                "label": "ROLPA DC",
+                "value": "387:rolpa-dc"
+            },
+            {
+                "label": "RUKUM DC",
+                "value": "346:rukum-dc"
+            },
+            {
+                "label": "SAKHUWA DC",
+                "value": "374:sakhuwa-dc"
+            },
+            {
+                "label": "SALYAN DC",
+                "value": "349:salyan-dc"
+            },
+            {
+                "label": "SANISCHARE SDC",
+                "value": "352:sanischare-sdc"
+            },
+            {
+                "label": "SANKHU DC",
+                "value": "322:sankhu-dc"
+            },
+            {
+                "label": "SILGADHI DC",
+                "value": "398:silgadhi-dc"
+            },
+            {
+                "label": "simara DC",
+                "value": "230:simara-dc"
+            },
+            {
+                "label": "SIMRAUNGADH DC",
+                "value": "304:simraungadh-dc"
+            },
+            {
+                "label": "SINDHU DC",
+                "value": "276:sindhu-dc"
+            },
+            {
+                "label": "SINDHULI DC",
+                "value": "233:sindhuli-dc"
+            },
+            {
+                "label": "SIRAHA DC",
+                "value": "312:siraha-dc"
+            },
+            {
+                "label": "SURAJPURA DC",
+                "value": "327:surajpura-dc"
+            },
+            {
+                "label": "SURKHET DC",
+                "value": "353:surkhet-dc"
+            },
+            {
+                "label": "SURUNGA DC",
+                "value": "358:surunga-dc"
+            },
+            {
+                "label": "SYANGJA DC",
+                "value": "278:syangja-dc"
+            },
+            {
+                "label": "TANDI DC",
+                "value": "236:tandi-dc"
+            },
+            {
+                "label": "TATOPANI DC",
+                "value": "377:tatopani-dc"
+            },
+            {
+                "label": "TAULIHAWA DC",
+                "value": "283:taulihawa-dc"
+            },
+            {
+                "label": "TEHRATHUM DC",
+                "value": "341:tehrathum-dc"
+            },
+            {
+                "label": "THIMI DC",
+                "value": "244:thimi-dc"
+            },
+            {
+                "label": "TIKAPUR DC",
+                "value": "342:tikapur-dc"
+            },
+            {
+                "label": "TRIVENI DC",
+                "value": "328:triveni-dc"
+            },
+            {
+                "label": "TULSIPUR DC",
+                "value": "252:tulsipur-dc"
+            },
+            {
+                "label": "TUMLINGTAR DC",
+                "value": "363:tumlingtar-dc"
+            },
+            {
+                "label": "URLABARI DC",
+                "value": "295:urlabari-dc"
+            },
+            {
+                "label": "VURIGAUN DC",
+                "value": "372:vurigaun-dc"
+            },
+            {
+                "label": "YADUKUWA DC",
+                "value": "389:yadukuwa-dc"
+            }
+        ]
+    }
+}
