@@ -1,0 +1,20 @@
+{
+    "customer_code": "code here",
+    "minimum_payable_amount": 0,
+    "customer_details": {
+        "customer_name": "(H2O Software)", 
+        "mobile_number": "",
+        "address": "इटहरी-9"
+    },
+    "bill_details": {
+        "current_month_dues": "0",
+        "current_month_fine": "0",
+        "current_month_discount": "0",
+        "total_credit_sales_amount": "0",
+        "total_advance_amount": "0",
+        "previous_dues": "0",
+        "total_dues": 0
+    },
+    "log_idx": "auto-generated"
+    
+}

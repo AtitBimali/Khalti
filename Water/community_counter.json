@@ -1,0 +1,1142 @@
+{
+    "counter": {
+        "options": [
+            {
+                "label": "Aadarsha Khanepani",
+                "value": "527:aadarsha-khanepani"
+            },
+            {
+                "label": "Aalapot",
+                "value": "506:aalapot-khanepani"
+            },
+            {
+                "label": "Adarsh Nagar",
+                "value": "209:adarsh-nagar-khanepani"
+            },
+            {
+                "label": "Adherikhola",
+                "value": "596:adherikhola-khanepani"
+            },
+            {
+                "label": "Adheri Khola",
+                "value": "AKP001:andheri-khola"
+            },
+            {
+                "label": "Agyauli",
+                "value": "2105202007220002:agyaulin-khanepani"
+            },
+            {
+                "label": "Amritpani",
+                "value": "2901202110270006:amritpani-khanepani"
+            },
+            {
+                "label": "Amritpur",
+                "value": "532:amritpur-khanepani"
+            },
+            {
+                "label": "Anandaban Shankarnagar",
+                "value": "218:anandaban-shankarnagar-khanepani"
+            },
+            {
+                "label": "Angareshwor",
+                "value": "564:angareshwor-khanepani"
+            },
+            {
+                "label": "Argha Gramin",
+                "value": "563:argha-gramin-khanepani"
+            },
+            {
+                "label": "Attariya",
+                "value": "6:attariya-khanepani"
+            },
+            {
+                "label": "Babiyachaur",
+                "value": "538:babiyachaur-khanepani"
+            },
+            {
+                "label": "Badera",
+                "value": "533:badera-khanepani"
+            },
+            {
+                "label": "Bahadurganj Khanepani",
+                "value": "BDR:bahadurganj-khanepani"
+            },
+            {
+                "label": "Baitadi Nagar Khanepani",
+                "value": "520:baitadi-nagar-khanepani"
+            },
+            {
+                "label": "Bakalghad (Gajedi -2)",
+                "value": "510:bakalgadh-khanepani"
+            },
+            {
+                "label": "Bakulghat Gajedi Bazar",
+                "value": "614:bakulghat-gajedi-bazar-khanepani"
+            },
+            {
+                "label": "Bandipur",
+                "value": "112:bandipur-khanepani"
+            },
+            {
+                "label": "Banepa",
+                "value": "BNP:nwsc-banepa"
+            },
+            {
+                "label": "Baniyani",
+                "value": "608:baniyani-khanepani"
+            },
+            {
+                "label": "Bansgadhi",
+                "value": "513:bansgadhi-khanepani"
+            },
+            {
+                "label": "Bardaghat",
+                "value": "208:bardaghat-khanepani"
+            },
+            {
+                "label": "Bardibas",
+                "value": "5:bardibas-khanepani"
+            },
+            {
+                "label": "Bargaduwa",
+                "value": "511:bargaduwa-khanepani"
+            },
+            {
+                "label": "Basantpur",
+                "value": "595:basantpur-khanepani"
+            },
+            {
+                "label": "Basha",
+                "value": "BSA:basha-khanepani"
+            },
+            {
+                "label": "Bayarghari",
+                "value": "553:bayarghari-khanepani"
+            },
+            {
+                "label": "Belhi",
+                "value": "558:belhi-khanepani"
+            },
+            {
+                "label": "Beljhundi",
+                "value": "589:beljhundi-khanepani"
+            },
+            {
+                "label": "Beni",
+                "value": "605:beni-khanepani"
+            },
+            {
+                "label": "Bhadgaun Karadi",
+                "value": "215:bhadgaun-karadi-khanepani"
+            },
+            {
+                "label": "Bhadrapur",
+                "value": "BDP:bhadrapur-khanepani-nwsc"
+            },
+            {
+                "label": "Bhandara Shikharbasti",
+                "value": "601:bhandara-shikharbasti-khanepani"
+            },
+            {
+                "label": "Bharatpur",
+                "value": "233:bharatpur-khanepani-board"
+            },
+            {
+                "label": "Bharatpur, Dang",
+                "value": "226:bharatpur-khanepani-dang"
+            },
+            {
+                "label": "Bhate Dhikur",
+                "value": "586:bhate-dhikur-khanepani"
+            },
+            {
+                "label": "Bhimad",
+                "value": "548:bhimad-khanepani"
+            },
+            {
+                "label": "Bhurigaun",
+                "value": "516:bhurigaun-khanepani"
+            },
+            {
+                "label": "Bidur",
+                "value": "607:bidur-khanepani"
+            },
+            {
+                "label": "Bindabasini Brihat",
+                "value": "518:bindabasini-brihat-khanepani"
+            },
+            {
+                "label": "Bindabasini Mahankal",
+                "value": "574:bindabasini-mahankal-khanepani"
+            },
+            {
+                "label": "Bindiyabashini, Pokhara",
+                "value": "BIN:pokhara-khanepani"
+            },
+            {
+                "label": "Biratnagar",
+                "value": "BIR:biratnagar-khanepani-nwsc"
+            },
+            {
+                "label": "Birendranagar, Chitwan",
+                "value": "101:birendranagar-khanepani"
+            },
+            {
+                "label": "Birendranagar Patihani",
+                "value": "5407090622020022:birendranagar-patihani-khanepani"
+            },
+            {
+                "label": "Birgunj",
+                "value": "BRJ:birgunj-khanepani-nwsc"
+            },
+            {
+                "label": "Birtamod",
+                "value": "32:birtamod-khanepani"
+            },
+            {
+                "label": "Bishaltar",
+                "value": "642:bishaltar-khanepani"
+            },
+            {
+                "label": "Bishnudol",
+                "value": "31:bishnudol-khanepani"
+            },
+            {
+                "label": "Brihat Khanepani Bagmati-1 sarlahi",
+                "value": "542:brihat-khanepani"
+            },
+            {
+                "label": "Brihat Pikhel",
+                "value": "631:brihat-pikhel-khanepani"
+            },
+            {
+                "label": "Budhabare",
+                "value": "195:budhabare-khanepani"
+            },
+            {
+                "label": "Butwal",
+                "value": "BTL:nwsc-butwal"
+            },
+            {
+                "label": "Chainpur",
+                "value": "2604212011430002:chainpur-khanepani"
+            },
+            {
+                "label": "Chainpur Sahari",
+                "value": "637:chainpur-sahari-khanepani"
+            },
+            {
+                "label": "Chandragadhi",
+                "value": "13:chandragadhi-khanepani"
+            },
+            {
+                "label": "Chandragadi Dosro",
+                "value": "557:chandragadi-dosro-khanepani"
+            },
+            {
+                "label": "Chandragiri",
+                "value": "627:chandragiri-nagar"
+            },
+            {
+                "label": "Chandranigahpur",
+                "value": "530:chandranigahpur-khanepani"
+            },
+            {
+                "label": "Chandrauta",
+                "value": "593:chandrauta-khanepani"
+            },
+            {
+                "label": "Changathali",
+                "value": "28:changathali-khanepani"
+            },
+            {
+                "label": "Charali",
+                "value": "8:charali-khanepani"
+            },
+            {
+                "label": "Chargaun Khanepani",
+                "value": "1810123220210002:chargaun-khanepani"
+            },
+            {
+                "label": "Chaumala",
+                "value": "599:chaumala-khanepani"
+            },
+            {
+                "label": "Chhapnahala",
+                "value": "509:chhapnahala-khanepani"
+            },
+            {
+                "label": "Chhinchu Khanepani",
+                "value": "523:chhinchu-khanepani"
+            },
+            {
+                "label": "Chundevi",
+                "value": "107:chundevi-khanepani"
+            },
+            {
+                "label": "Chunikhel",
+                "value": "505:chunikhel-khanepani"
+            },
+            {
+                "label": "Dadhikot",
+                "value": "197:dadhikot-khanepani"
+            },
+            {
+                "label": "Damak",
+                "value": "12:damak-khanepani"
+            },
+            {
+                "label": "Damauli",
+                "value": "189:damauli-khanepani"
+            },
+            {
+                "label": "Danapur",
+                "value": "4313031202200005:danapur-khanepani"
+            },
+            {
+                "label": "Danchhi, Bhardabas",
+                "value": "512:danchhi-bhardabas-khanepani"
+            },
+            {
+                "label": "Deurali Khanepani",
+                "value": "502:deurali-khanepani"
+            },
+            {
+                "label": "Devchuli Khanepani",
+                "value": "2109201511260004:devchuli-khanepani"
+            },
+            {
+                "label": "Devdaha",
+                "value": "260:devdaha"
+            },
+            {
+                "label": "Devghat",
+                "value": "2280412032202006:devghat-khanepani"
+            },
+            {
+                "label": "Devghat-4 Dhudabari",
+                "value": "628:devghat-4-khanepani"
+            },
+            {
+                "label": "Devsiddha",
+                "value": "252:devsiddha"
+            },
+            {
+                "label": "Dhakeri",
+                "value": "560:dhakeri-khanepani"
+            },
+            {
+                "label": "Dhangadhi",
+                "value": "DHI:dhangadhi-khanepani-nwsc"
+            },
+            {
+                "label": "Dhankuta",
+                "value": "7:dhankuta-khanepani"
+            },
+            {
+                "label": "Dhaukhani Grihkot",
+                "value": "625:dhaukhani-grihkot-khanepani"
+            },
+            {
+                "label": "Dhobidhunga",
+                "value": "576:dhobidhunga-tallo-bhangal-khanepani"
+            },
+            {
+                "label": "Dhulabari",
+                "value": "4:dhulabari-khanepani"
+            },
+            {
+                "label": "Dhulikhel",
+                "value": "569:dhulikhel-khanepani"
+            },
+            {
+                "label": "Dudharaksha Devisthan",
+                "value": "2020081704360002:dudhraksha-khanepani"
+            },
+            {
+                "label": "Duhabi",
+                "value": "19:duhabi-khanepani"
+            },
+            {
+                "label": "Dumarwana",
+                "value": "515:dumarwana-khanepani"
+            },
+            {
+                "label": "Dumse Khanepani",
+                "value": "38:dumse-khanepani"
+            },
+            {
+                "label": "Fulbari",
+                "value": "2721200404530003:fulbari-khanepani"
+            },
+            {
+                "label": "Gaahatandi",
+                "value": "2021114514120007:gaahatandi-khanepani"
+            },
+            {
+                "label": "Gadhawa",
+                "value": "633:gadhawa-khanepani"
+            },
+            {
+                "label": "Gagalphedi Khanepani(4,5,6)",
+                "value": "40:gagalphedi-khanepani"
+            },
+            {
+                "label": "Gaindakot",
+                "value": "223:gaindakot-khanepani"
+            },
+            {
+                "label": "Gajehada",
+                "value": "264:gajeda-khanepani"
+            },
+            {
+                "label": "Gajuri",
+                "value": "561:gajuri-khanepani"
+            },
+            {
+                "label": "Garuda Khanepani",
+                "value": "519:garuda-khanepani"
+            },
+            {
+                "label": "Gaur",
+                "value": "GAR:gaur-khanepani"
+            },
+            {
+                "label": "Gauradaha",
+                "value": "14:gauradaha-khanepani"
+            },
+            {
+                "label": "Gaurishankhar",
+                "value": "639:gaurishankhar-khanepani"
+            },
+            {
+                "label": "Gaushala",
+                "value": "GAU:gaushala-khanepani"
+            },
+            {
+                "label": "Ghari Talbesi",
+                "value": "217:ghari-talbesi-khanepani"
+            },
+            {
+                "label": "Ghorahi",
+                "value": "243:ghorahi-khanepani"
+            },
+            {
+                "label": "Godawari, Kailali",
+                "value": "573:godawari-khanepani"
+            },
+            {
+                "label": "Golaghat",
+                "value": "632:golaghat-khanepani"
+            },
+            {
+                "label": "Gothatar",
+                "value": "242:gothatar-khanepani"
+            },
+            {
+                "label": "Gulariya Khanepani",
+                "value": "522:gulariya-khanepani"
+            },
+            {
+                "label": "Gumi Doshro Khanepani",
+                "value": "528:gumi-doshro-khanepani"
+            },
+            {
+                "label": "Gundu",
+                "value": "606:gundu-khanepani"
+            },
+            {
+                "label": "Gunjanagar",
+                "value": "238:gunjanagar"
+            },
+            {
+                "label": "Halawar",
+                "value": "616:halawar-khanepani"
+            },
+            {
+                "label": "HAPURE DANG",
+                "value": "55:hapure-dang-khanepani"
+            },
+            {
+                "label": "Harion",
+                "value": "1042092021070701:harion-khanepani"
+            },
+            {
+                "label": "Hemja, Pokhara",
+                "value": "HEM:nwsc-pokhara-hemja"
+            },
+            {
+                "label": "Hetauda",
+                "value": "100:hetauda-khanepani"
+            },
+            {
+                "label": "Ilam",
+                "value": "597:ilam-khanepani"
+            },
+            {
+                "label": "Indrayani",
+                "value": "507:indrayani-khanepani"
+            },
+            {
+                "label": "Ishworpur",
+                "value": "247:ishworpur"
+            },
+            {
+                "label": "Itahari",
+                "value": "2:itahari-khanepani"
+            },
+            {
+                "label": "Jagatpur Kerunga",
+                "value": "2021020810100101:jagatpur-kerunga-khanepani"
+            },
+            {
+                "label": "Jahada Manhari",
+                "value": "572:jahada-manhari-khanepani"
+            },
+            {
+                "label": "Jaleshwor",
+                "value": "JAL:jaleshwor-khanepani-nwsc"
+            },
+            {
+                "label": "Jaluke",
+                "value": "253:jaluke"
+            },
+            {
+                "label": "Jalukini",
+                "value": "554:jalukini-khanepani"
+            },
+            {
+                "label": "Janakpur",
+                "value": "JNK:janakpur-khanepani-nwsc"
+            },
+            {
+                "label": "Jansewa, Nawalparasi",
+                "value": "111:jansewa-khanepani"
+            },
+            {
+                "label": "Jante Khanepani",
+                "value": "521:jante-khanepani"
+            },
+            {
+                "label": "Jhalari",
+                "value": "56:jhalari-khanepani"
+            },
+            {
+                "label": "Jhumka, Sunsari",
+                "value": "33:jhumka-khanepani"
+            },
+            {
+                "label": "Jimba Dada",
+                "value": "600:jimba-dada-khanepani"
+            },
+            {
+                "label": "Jugal Thalkharka Holche Khanepani",
+                "value": "544:jugal-khanepani"
+            },
+            {
+                "label": "Jurpaniya Mainatara",
+                "value": "570:jurpaniya-mainatara-khanepani"
+            },
+            {
+                "label": "Jutpani",
+                "value": "194:jutpani-khanepani"
+            },
+            {
+                "label": "Kahun, Pokhara",
+                "value": "34:kahun-khanepani"
+            },
+            {
+                "label": "Kakarvitta",
+                "value": "1:kakarvitta-khanepani"
+            },
+            {
+                "label": "Kalaiya",
+                "value": "KAL:kalaiya-khanepani"
+            },
+            {
+                "label": "Kalika",
+                "value": "591:kalika-khanepani"
+            },
+            {
+                "label": "Kalyanpur",
+                "value": "568:kalyanpur-khanepani"
+            },
+            {
+                "label": "Kapasetar",
+                "value": "2120250401310001:kapasetar-khanepani"
+            },
+            {
+                "label": "Karahiya Makrahar",
+                "value": "212:karahiya-makrahar-khanepani"
+            },
+            {
+                "label": "Karmaiya, Sarlahi",
+                "value": "41:karmaiya-khanepani"
+            },
+            {
+                "label": "Katahari",
+                "value": "534:katahari-khanepani"
+            },
+            {
+                "label": "Katari Udayapur",
+                "value": "537:katari-khanepani"
+            },
+            {
+                "label": "Katunje Ghattekhola",
+                "value": "248:katunje-ghattekhola"
+            },
+            {
+                "label": "Kawasoti",
+                "value": "202:kawasoti-khanepani"
+            },
+            {
+                "label": "Khairenitar",
+                "value": "235:khairenitar"
+            },
+            {
+                "label": "Khalanga, Dadeldhura",
+                "value": "1521200301570002:khalanga-khanepani"
+            },
+            {
+                "label": "Khanikhola Tapudada",
+                "value": "2207202103590005:khanikhola-tapudada-khanepani"
+            },
+            {
+                "label": "Kishannagar",
+                "value": "630:kishannagar-khanepani"
+            },
+            {
+                "label": "Kolhuwa",
+                "value": "517:kolhuwa-khanepani"
+            },
+            {
+                "label": "Krishnanagar Khanepani",
+                "value": "KNR:krishnanagar-khanepani"
+            },
+            {
+                "label": "Lahan",
+                "value": "LAH:lahan-khanepani"
+            },
+            {
+                "label": "Lakhanpur",
+                "value": "9:lakhanpur-khanepani"
+            },
+            {
+                "label": "Lalbandi",
+                "value": "106:lalbandi-khanepani"
+            },
+            {
+                "label": "Lalghad",
+                "value": "610:lalghad-khanepani"
+            },
+            {
+                "label": "Lalim",
+                "value": "646:lalim-khanepani"
+            },
+            {
+                "label": "Lamahi",
+                "value": "101:lamhi-khanepani"
+            },
+            {
+                "label": "Lekhapharsa Khanepani",
+                "value": "524:lekhapharsa-khanepani"
+            },
+            {
+                "label": "Lekhnath, Pokhara",
+                "value": "267:lekhnath-khanepani"
+            },
+            {
+                "label": "Letang",
+                "value": "545:letang-khanepani"
+            },
+            {
+                "label": "Lubhoo",
+                "value": "199:lubhoo-khanepani"
+            },
+            {
+                "label": "Lukla",
+                "value": "539:lukla-khanepani"
+            },
+            {
+                "label": "Machchhegaun",
+                "value": "611:machchhegaun-khanepani"
+            },
+            {
+                "label": "Madhumalla Brihat",
+                "value": "562:madhumalla-brihat-khanepani"
+            },
+            {
+                "label": "Mahadevsthan Matatirtha",
+                "value": "536:mahadevsthan-matritha-khanepani"
+            },
+            {
+                "label": "Maharanijhoda",
+                "value": "640:maharanijhoda-khanepani"
+            },
+            {
+                "label": "Mahendranagar",
+                "value": "641:mahendranagar-khanepani"
+            },
+            {
+                "label": "Mahendranagar(Mahakali)",
+                "value": "MAH:mahendranagar-khanepani-nwsc"
+            },
+            {
+                "label": "Mailipani",
+                "value": "577:mailipani-khanepani"
+            },
+            {
+                "label": "Majgaun Jahdgaun",
+                "value": "603:majgaun-jahdgaun-khanepani"
+            },
+            {
+                "label": "Manahari",
+                "value": "3511202226010004:manahari-khanepani"
+            },
+            {
+                "label": "Mangalpur",
+                "value": "587:mangalpur-khanepani"
+            },
+            {
+                "label": "Manohara Besi",
+                "value": "578:manohara-khanepani"
+            },
+            {
+                "label": "Manthali",
+                "value": "552:manthali-khanepani"
+            },
+            {
+                "label": "Matatirtha Malpi",
+                "value": "549:matatirtha-khanepani"
+            },
+            {
+                "label": "Mayadevi",
+                "value": "609:mayadevi-khanepani"
+            },
+            {
+                "label": "Meghauli",
+                "value": "236:meghauli"
+            },
+            {
+                "label": "Munuwa",
+                "value": "53:munuwa-khanepani"
+            },
+            {
+                "label": "Murgiya",
+                "value": "MKP001:murgiya-khanepani"
+            },
+            {
+                "label": "Nabla",
+                "value": "575:nabla-khanepani"
+            },
+            {
+                "label": "Naharpur",
+                "value": "615:naharpur-khanepani"
+            },
+            {
+                "label": "Namuna Shivanagar",
+                "value": "105:vijayanagar-khanepani-nawalparasi"
+            },
+            {
+                "label": "Narayani Saha Lagani",
+                "value": "2901202110210006:narayani-saha-lagani-khanepani"
+            },
+            {
+                "label": "Narayanpur",
+                "value": "230:narayanpur-khanepani"
+            },
+            {
+                "label": "Narayansthan",
+                "value": "1120220306390005:narayansthan-khanepani"
+            },
+            {
+                "label": "Naubasta",
+                "value": "635:naubasta-khanepani"
+            },
+            {
+                "label": "Naumule Khanepani",
+                "value": "547:naumule-khanepani"
+            },
+            {
+                "label": "Naya Aapchaur",
+                "value": "623:naya-aapchaur-khanepani"
+            },
+            {
+                "label": "Naya Belahani",
+                "value": "559:naya-belahani-khanepani"
+            },
+            {
+                "label": "Nayagaun",
+                "value": "227:nayagaun-khanepani"
+            },
+            {
+                "label": "Nepalgunj",
+                "value": "NEP:nepalgunj-khanepani-nwsc"
+            },
+            {
+                "label": "Netragunj",
+                "value": "566:netragunj-khanepani"
+            },
+            {
+                "label": "Nijgadh, Bara",
+                "value": "228:nijgadh-khanepani-bara"
+            },
+            {
+                "label": "NWSC Bhairahawa",
+                "value": "BWA:nwsc-bhairawa"
+            },
+            {
+                "label": "Pabannagar",
+                "value": "602:pabannagar-khanepani"
+            },
+            {
+                "label": "Pakarwas Bhirpani",
+                "value": "550:pakarwas-bhirpani-khanepani"
+            },
+            {
+                "label": "Panbari",
+                "value": "579:panbari-khanepani"
+            },
+            {
+                "label": "Panchanagar",
+                "value": "201:panchanagar-khanepani"
+            },
+            {
+                "label": "Panchdhara",
+                "value": "535:panchdhara-khanepani"
+            },
+            {
+                "label": "Parbat Beni",
+                "value": "598:parbat-beni-khanepani"
+            },
+            {
+                "label": "Parbatipur",
+                "value": "2120070910500402:parbatipur-khanepani"
+            },
+            {
+                "label": "Pardi, Pokhara",
+                "value": "POK:headoffice-khanepani"
+            },
+            {
+                "label": "Parsa",
+                "value": "224:parsa-khanepani"
+            },
+            {
+                "label": "Pataleban",
+                "value": "583:pataleban-khanepani"
+            },
+            {
+                "label": "Pathari",
+                "value": "20:pathari-khanepani"
+            },
+            {
+                "label": "Pathlaiya",
+                "value": "2021020312550001:pathlaiya-khanepani"
+            },
+            {
+                "label": "Phidim",
+                "value": "26:phidim-khanepani"
+            },
+            {
+                "label": "Pipaldhara",
+                "value": "634:pipaldhara-khanepani"
+            },
+            {
+                "label": "Piple",
+                "value": "42:piple-khanepani-2"
+            },
+            {
+                "label": "Pithuwa",
+                "value": "540:pithuwa-khanepani-2"
+            },
+            {
+                "label": "Pragatinagar Dang Khanepani",
+                "value": "186:pragatinagar-khanepani"
+            },
+            {
+                "label": "Prithivi",
+                "value": "190:prithivi-khanepani"
+            },
+            {
+                "label": "Radhakrishna",
+                "value": "621:radhakrishna-khanepani"
+            },
+            {
+                "label": "Rajbiraj",
+                "value": "RJB:rajbiraj-khanepani"
+            },
+            {
+                "label": "Raktedunga",
+                "value": "644:raktedunga-khanepani"
+            },
+            {
+                "label": "Ramnagar Brihat",
+                "value": "109:ramnagar-khanepani"
+            },
+            {
+                "label": "Rampur, Palpa",
+                "value": "244:rampur"
+            },
+            {
+                "label": "Raniganj",
+                "value": "39:raniganj-khanepani"
+            },
+            {
+                "label": "Ratnanagar",
+                "value": "222:ratnanagar-khanepani"
+            },
+            {
+                "label": "Rolpa Sahari",
+                "value": "618:rolpa-sahari-khanepani"
+            },
+            {
+                "label": "Rudrapur",
+                "value": "259:rudrapur"
+            },
+            {
+                "label": "Rumjatar",
+                "value": "114:rumjatar-khanepani"
+            },
+            {
+                "label": "Sadhukuti",
+                "value": "619:sadhukuti-khanepani"
+            },
+            {
+                "label": "Sainamaina Khanepani",
+                "value": "104:sainamaina-khanepani-rupandehi"
+            },
+            {
+                "label": "Sainbu",
+                "value": "541:sainbu-khanepani"
+            },
+            {
+                "label": "Sakhuwaghat",
+                "value": "556:sakhuwaghat-khanepani"
+            },
+            {
+                "label": "Sandhikharka",
+                "value": "594:sandhikharka-khanepani"
+            },
+            {
+                "label": "Sano Bharyang",
+                "value": "551:sano-bharyang-khanepani"
+            },
+            {
+                "label": "Sanopaithani",
+                "value": "3829012021120008:sanopaithani-khanepani"
+            },
+            {
+                "label": "Sauraha Bachhauli",
+                "value": "629:sauraha-bachhauli-khanepani"
+            },
+            {
+                "label": "Semlar",
+                "value": "258:semlar"
+            },
+            {
+                "label": "Shanischare",
+                "value": "590:shanischare-khanepani"
+            },
+            {
+                "label": "Shankarnagar",
+                "value": "219:shankarnagar-khanepani"
+            },
+            {
+                "label": "Shillichung",
+                "value": "115:shillichung-khanepani"
+            },
+            {
+                "label": "Shivagadhi Khanepani, Kapilvastu",
+                "value": "620:shivagadhi-khanepani"
+            },
+            {
+                "label": "Shivalaya Kushma",
+                "value": "192:shivalaya-khanepani"
+            },
+            {
+                "label": "Shivamandir",
+                "value": "617:shivamandir-khanepani"
+            },
+            {
+                "label": "Shiva Parbati Khanepani",
+                "value": "531:shiva-parbati-khanepani"
+            },
+            {
+                "label": "Shivnagar",
+                "value": "206:shivnagar-khanepani"
+            },
+            {
+                "label": "Shree Barne",
+                "value": "624:shree-barne-khanepani"
+            },
+            {
+                "label": "Shree Birendranagar khanepani, Chitwan",
+                "value": "643:shree-birendranagar-khanepani-chitwan"
+            },
+            {
+                "label": "Shree chilimgadhi",
+                "value": "622:shree-chilimgadhi-khanepani"
+            },
+            {
+                "label": "Shree Dhaneshwor",
+                "value": "613:shree-dhaneshwor-khanepani"
+            },
+            {
+                "label": "Shree Dukhaharaneshwor",
+                "value": "647:shree-dukhaharaneshwor-mahadev-khanpani"
+            },
+            {
+                "label": "Shree Khudunabari Arjundhara",
+                "value": "612:shree-khudunabari-arjundhara-khanepani"
+            },
+            {
+                "label": "Shree Lamki",
+                "value": "10:shree-lamki-sana-sahari-khanepani"
+            },
+            {
+                "label": "Shree Panchami",
+                "value": "543:shree-panchami-khanepani"
+            },
+            {
+                "label": "Shreepur",
+                "value": "585:shreepur-khanepani"
+            },
+            {
+                "label": "Shree Samaji",
+                "value": "580:shree-samaji-khanepani"
+            },
+            {
+                "label": "Shree Shanti Basti",
+                "value": "571:shree-shanti-basti-khanepani"
+            },
+            {
+                "label": "Shree Subha Laxmi Gramin Bidhyut",
+                "value": "645:shree-subha-laxmi-gramin-bidhyut"
+            },
+            {
+                "label": "Shubhaghat Sahari",
+                "value": "565:shubhaghat-sahari-khanepani"
+            },
+            {
+                "label": "Shuva",
+                "value": "588:shuva-khanepani"
+            },
+            {
+                "label": "Siddha Bageshwori",
+                "value": "592:siddha-bageshwori-khanepani"
+            },
+            {
+                "label": "Siddhipur, Lalitpur",
+                "value": "25:siddhipur-khanepani"
+            },
+            {
+                "label": "Silagadi",
+                "value": "567:silagadi-khanepani"
+            },
+            {
+                "label": "Simara",
+                "value": "263:simara"
+            },
+            {
+                "label": "SS Khanepani",
+                "value": "582:ss-khanepani-2"
+            },
+            {
+                "label": "Suda Town Khanepani",
+                "value": "2111082010040003:suda-town-khanepani"
+            },
+            {
+                "label": "Sukkhad Darakh",
+                "value": "207:sukkhad-darakh-khanepani"
+            },
+            {
+                "label": "Sukranagar",
+                "value": "501:sukranagar-khanepani"
+            },
+            {
+                "label": "Sundar Bazar",
+                "value": "503:sundar-bazar-khanepani"
+            },
+            {
+                "label": "Sundarpur",
+                "value": "514:sundarpur-khanepani"
+            },
+            {
+                "label": "Sunwal",
+                "value": "604:sunwal-khanepani"
+            },
+            {
+                "label": "Surunga, Jhapa",
+                "value": "15:surunga-khanepani-2"
+            },
+            {
+                "label": "Tamnagar Rajpur",
+                "value": "110:tamnagar-rajpur-khanepani"
+            },
+            {
+                "label": "Tamsariya",
+                "value": "555:tamsariya-khanepani"
+            },
+            {
+                "label": "Tankisinwari",
+                "value": "626:tankisinwari-khanepani"
+            },
+            {
+                "label": "Tarakeshwor",
+                "value": "113:tarakeshwor-khanepani"
+            },
+            {
+                "label": "Taulihawa Khanepani",
+                "value": "TAU:taulihawa-khanepani"
+            },
+            {
+                "label": "Thaiba",
+                "value": "102:thaiba-khanepani"
+            },
+            {
+                "label": "Thankot",
+                "value": "108:thankot-khanepani"
+            },
+            {
+                "label": "Tharpu Bajar",
+                "value": "638:tharpu-bajar-khanepani"
+            },
+            {
+                "label": "Tikapur Khanepani",
+                "value": "529:tikapur-khanepani"
+            },
+            {
+                "label": "Tikathali",
+                "value": "581:tikathali-khanepani"
+            },
+            {
+                "label": "Tilkeni Mataina Khanepani",
+                "value": "525:tilkeni-mataina-khanepani"
+            },
+            {
+                "label": "Tindhara",
+                "value": "44:tindhara-khanepani"
+            },
+            {
+                "label": "Tokha Brihat",
+                "value": "584:tokha-brihat-khanepani"
+            },
+            {
+                "label": "Toribari",
+                "value": "636:toribari-khanepani"
+            },
+            {
+                "label": "Tulsipur",
+                "value": "232:tulsipur-khanepani"
+            },
+            {
+                "label": "Urlabari",
+                "value": "3:urlabari-khanepani"
+            },
+            {
+                "label": "Waling",
+                "value": "216:waling-khanepani"
+            }
+        ]
+    }
+}
